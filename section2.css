@@ -1,0 +1,17 @@
+
+
+.parent{
+    width: 100%;
+    background-color:black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}        
+
+
+.ele{
+    width: 20%;
+    background-color:gray;
+    height: 100px;
+    display: inline-block;
+    margin-left: 4%;
+}
